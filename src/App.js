@@ -55,10 +55,6 @@ const sesiOku = (metin) => {
 };
 
 
-
-
-
-
  return (
     <div style={{ textAlign: "center", fontFamily: "Arial", minHeight: "100vh" }}>
       {/* Logo en üstte */}
