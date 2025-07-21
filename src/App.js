@@ -4,7 +4,7 @@ import * as SpeechSDK from "microsoft-cognitiveservices-speech-sdk";
 
 
 // Azure bilgileri
-const speechKey = "2o9BFC9bbwHBKiJBWw175dCpkIM6AkTBcArGqE1umIyatTsRdMsJJQQJ99BGAC5RqLJXJ3w3AAAYACOGnHee";
+const speechKey = "key";
 const speechRegion = "westeurope"; 
 
 function App() {
